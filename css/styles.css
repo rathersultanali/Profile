@@ -44,6 +44,11 @@ a
   text-decoration: none;
 }
 
+.e-status
+{
+   margin: 0px;
+}
+
 a:hover
 {
   color: #EAF6F6;
