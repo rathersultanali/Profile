@@ -49,6 +49,12 @@ a
    margin: 0px;
 }
 
+.e-status:hover
+{
+  font-color: #66BFBF;
+  font-size: bolder;
+}
+
 a:hover
 {
   color: #EAF6F6;
