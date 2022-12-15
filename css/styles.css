@@ -52,7 +52,7 @@ a
 .e-status:hover
 {
   color: #66BFBF;
-  font-size: bolder;
+  font-weight: bolder;
 }
 
 a:hover
